@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.util.Currency;
 import java.util.Objects;
 
-public class Money {
+/*public class Money {
     private final BigDecimal amount;
     private final Currency currency;
 
@@ -48,4 +48,4 @@ public class Money {
                 ", currency=" + currency +
                 '}';
     }
-}
+}*/
